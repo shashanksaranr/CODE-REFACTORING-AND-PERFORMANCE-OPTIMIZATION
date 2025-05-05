@@ -93,5 +93,12 @@ This will open a GUI window where you can input matrix data and perform calculat
 
 ## Output:
 
+1. Welcome GUI:
+   
+    <img width="395" alt="Image" src="https://github.com/user-attachments/assets/c15d9af9-cf06-42ca-9a2b-49dcce9f7227" />
+
+2. Matrix Multiplication GUI:
+   
+    <img width="554" alt="Image" src="https://github.com/user-attachments/assets/dfaf59c5-227e-4849-946f-8c9f6ac4fb04" />
 
 
