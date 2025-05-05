@@ -245,7 +245,7 @@ def splash_screen(root):
     label = tk.Label(splash, text="Welcome to Matrix Calculator", font=("Arial", 20))
     label.pack(expand=True)
 
-    root.after(1200, lambda: splash.destroy())  # Close splash screen after 3 seconds
+    root.after(1200, lambda: splash.destroy())  # Close splash screen after 1.2 seconds
     root.after(1200, lambda: MatrixApp(root))  # Start the main app after splash
 
 
