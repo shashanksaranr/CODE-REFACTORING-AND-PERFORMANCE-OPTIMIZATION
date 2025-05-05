@@ -83,7 +83,7 @@ Step 1: Clone the Repository
 
     git clone https://github.com/shashanksaranr/CODE-REFACTORING-AND-PERFORMANCE-OPTIMIZATION.git
 
-    cd matrix-calculator
+    cd CODE-REFACTORING-AND-PERFORMANCE-OPTIMIZATION
 
 Step 2: Run the App
 
