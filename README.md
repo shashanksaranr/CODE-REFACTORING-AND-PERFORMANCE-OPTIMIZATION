@@ -115,3 +115,11 @@ This will open a GUI window where you can input matrix data and perform calculat
     <img width="554" alt="Image" src="https://github.com/user-attachments/assets/dfaf59c5-227e-4849-946f-8c9f6ac4fb04" />
 
 
+
+🙋‍♂️ Author
+
+SHASHANKSARAN R
+
+GitHub: @shashanksaranr
+
+
